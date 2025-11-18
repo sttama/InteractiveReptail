@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InteractiveReptail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InteractiveReptail_jar</output-path>
+    <root id="archive" name="InteractiveReptail.jar">
+      <element id="module-output" name="InteractiveReptail" />
+    </root>
+  </artifact>
+</component>
