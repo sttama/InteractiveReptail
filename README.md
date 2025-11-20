@@ -1,5 +1,5 @@
 :uk:
-# **Interactive Reptail**:crocodile:
+# **Interactive Reptile**:crocodile:
 # Description :eyes:
 This project was created for entertainment purposes and has no useful functions (except that the user can learn something new while studying the code). The project is a painted "reptile" that follows the cursor.
   
