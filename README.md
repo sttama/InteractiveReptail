@@ -1,7 +1,7 @@
 :uk:
 # **Interactive Reptile**:crocodile:
 # Description :eyes:
-This project was created for entertainment purposes and has no useful functions (except that the user can learn something new while studying the code). The project is a painted "reptile" that follows the cursor.
+This project was created for entertainment purposes and has no useful functions (except that the user can learn something new while studying the code). The project is a painted "reptile" that follows the cursor. [Video in TT.](https://vt.tiktok.com/ZSfSG7GpF/)
   
 <img width="1919" height="1079" alt="InteraciveReptail" src="https://github.com/user-attachments/assets/ecd352c1-bfda-46c1-a1d5-a3d8f984130b" />
   
@@ -71,7 +71,7 @@ ___
 :ru:
 # **Интерактивная рептилия**:crocodile:
 # Описание :eyes:
-Этот проект создан для развлекательных целей и не имеет полезных функций (разве что, пользователь может узнать что-то новое, при изучении кода). Проект представляет собой нарисованную "рептилию", которая следует за курсором.
+Этот проект создан для развлекательных целей и не имеет полезных функций (разве что, пользователь может узнать что-то новое, при изучении кода). Проект представляет собой нарисованную "рептилию", которая следует за курсором. [Видео в ТТ.](https://vt.tiktok.com/ZSfSG7GpF/)
   
 <img width="1919" height="1079" alt="InteraciveReptail" src="https://github.com/user-attachments/assets/ecd352c1-bfda-46c1-a1d5-a3d8f984130b" />
   
