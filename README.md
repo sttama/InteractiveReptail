@@ -16,7 +16,7 @@ You have to get the Java version and something else:
 `java version "21.0.7" 2025-04-15 LTS`  
 
 If you do not have Java installed or an error is displayed, then download it:  [how to download Java](https://www.java.com/en/download/help/download_options.html) ;  
-**Attention:** the project is written in Java version 21, earlier versions of Java are not suitable for launch.  
+**Attention:** to run the program, you need Java version 17 or later.  
 If you have Java, then you can start the startup.
 ___
 ## On Windows :window:
@@ -86,7 +86,7 @@ ___
 `java version "21.0.7" 2025-04-15 LTS`  
 
 Если у вас не установлена Java или выводится ошибка, то скачайте ее:  [как скачать Java](https://www.java.com/ru/download/help/download_options.html) ;  
-**Внимание:** проект написан на Java версии 21, более ранние версии Java не подойдут для запуска.  
+**Внимание:** для запуска программы нужна Java версии 17 или более позднии версии.  
 Если у вас есть Java, то можно приступить к запуску.
 ___
 ## В Windows :window:
